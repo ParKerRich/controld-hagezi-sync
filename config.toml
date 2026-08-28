@@ -49,4 +49,4 @@ names = ["BetterDNS - Pro Plus"]
 # =============================================================================
 
 [profile_folders]
-BetterDNS - Pro Plus   = ["Most Abused TLDs"]
+"BetterDNS - Pro Plus" = ["Most Abused TLDs"]
